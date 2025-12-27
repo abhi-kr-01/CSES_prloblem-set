@@ -50,4 +50,5 @@ void solve2(){
 
 int main(){
     solve2();
+    solve1();
 }
